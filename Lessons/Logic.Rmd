@@ -23,6 +23,7 @@ Creating logical expressions requires logical operators. You're probably familia
 `*`, and `/`. The first logical operator we are going to discuss is the equality operator, represented by two equals signs
 `==`. Use the equality operator below to find out if TRUE is equal to TRUE.
 
+
 ```{r a, exercise=TRUE}
 
 ```
